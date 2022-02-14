@@ -1,0 +1,65 @@
+.container{
+    width: 100vw;
+    height:80vh;
+    margin-top: 10vh;
+}
+
+.loginContainer{
+  width: 25vw;
+}
+
+
+.subtitle{
+  font-size:medium;
+}
+
+.nestSubtile{
+  font-size: smaller;
+}
+
+.noticeText{
+  font-size: x-small;
+}
+
+.floatTextLeft{
+  float: left;
+}
+.floatTextRight{
+  float: right;
+}
+
+.removeUnderline{
+  text-decoration:double;
+}
+
+.fullWidth{
+  width:20vw
+}
+
+.commentsContainer{
+  margin-top: 4rem;
+  margin-left: 5rem;
+}
+
+.commentsTextArea{
+  height: 10rem;
+  overflow-y: scroll;
+}
+
+.buttonComments{
+   width: 8rem;
+}
+
+.lister{
+  border-color: black;
+  border: 1px solid black;
+  height: 20rem;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.comments{
+  border-color: black;
+  border: 1px solid black;
+  height: 5rem;
+}
